@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="PluralsightDownloader.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Username" Type="System.String" Scope="User">
+      <Value Profile="(Default)">registered_email_id</Value>
+    </Setting>
+    <Setting Name="Password" Type="System.String" Scope="User">
+      <Value Profile="(Default)">pluralsight_password</Value>
+    </Setting>
+    <Setting Name="Downloads" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Video Tutorials</Value>
+    </Setting>
+    <Setting Name="ShowConsole" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="YoutubeDlUri" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://yt-dl.org/downloads/2019.03.18/youtube-dl.exe</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
