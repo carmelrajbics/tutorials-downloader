@@ -353,7 +353,7 @@
 
             var arguments =
                 string.Format(
-                    "--username {0} --password {1} -o \"{2}\" --playlist-start {3} --playlist-end {3} --max-downloads 1 --rate-limit 100K \"{4}\"",
+                    "--username {0} --password {1} -o \"{2}\" --playlist-start {3} --playlist-end {3} --max-downloads 1 --rate-limit 100K --all-subs \"{4}\"",
                     userName,
                     password,
                     fileName.Replace("%", "%%"),
